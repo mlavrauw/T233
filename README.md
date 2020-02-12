@@ -1,5 +1,22 @@
 # The GAP package T233
 
+This website contains <a
+href="http://www.gap-system.org">GAP</a>-code to determine the rank
+and the \(G\)-orbit of tensors in the 18-dimensional
+vector space 
+$$V=\mathbb{F}_q^2\otimes\mathbb{F}_q^3\otimes\mathbb{F}_q^3,$$
+over the finite field \({\mathbb{F}}_q\) with \(q\) elements,
+where \(G\leq\) GL\((18,q)\) is the natural group
+preserving the set of tensors of rank one in \(V\).
+
+<p>The algorithms depend on the classification of \(2\times 3 \times
+3\) tensors from <a href="https://www.sciencedirect.com/science/article/pii/S0024379515001494">[Lavrauw-Sheekey 2015]</a>, which is summarised in this
+<a href="table1.html">table</a>. The code is written in the <a
+href="http://www.gap-system.org">GAP</a>-language and uses some
+functionality from the GAP package <a
+href="http://www.fining.org">FinInG</a>. Tensors are represented by
+points in the projective space PG\((V)\).
+
 TODO: add a description of your package; perhaps also instructions how how to
 install and use it, resp. where to find out more
 
