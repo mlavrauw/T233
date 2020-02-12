@@ -1,7 +1,6 @@
 # The GAP package T233
 
-This package contains <a
-href="http://www.gap-system.org">GAP</a>-code to determine the rank
+This package determines the rank
 and the \(G\)-orbit of tensors in the 18-dimensional
 vector space 
 $$V=\mathbb{F}_q^2\otimes\mathbb{F}_q^3\otimes\mathbb{F}_q^3,$$
