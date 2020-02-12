@@ -1,6 +1,6 @@
 # The GAP package T233
 
-This website contains <a
+This package contains <a
 href="http://www.gap-system.org">GAP</a>-code to determine the rank
 and the \(G\)-orbit of tensors in the 18-dimensional
 vector space 
@@ -17,9 +17,7 @@ functionality from the GAP package <a
 href="http://www.fining.org">FinInG</a>. Tensors are represented by
 points in the projective space PG\((V)\).
 
-TODO: add a description of your package; perhaps also instructions how how to
-install and use it, resp. where to find out more
-
+For more information, you can visit the following webpage: http://people.sabanciuniv.edu/mlavrauw/T233/T233_paper.html.
 
 ## Contact
     
