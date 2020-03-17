@@ -20,9 +20,18 @@ For more information, you can visit the following webpage: http://people.sabanci
 
 ## Contact
     
-    Michel Lavrauw and Nour Alnajjarine 
-    {mlavrauw,nour}@sabanciuniv.edu
-    PostalAddress := "Faculty of Engineering and Natural Sciences, Sabanci University, 34956 Tuzla, Istanbul, Turkey",
+    Nour Alnajjarine 
+    nour@sabanciuniv.edu
+    Faculty of Engineering and Natural Sciences, 
+    Sabanci University, 
+    34956 Tuzla, Istanbul, Turkey.
+    
+    Michel Lavrauw
+    mlavrauw@sabanciuniv.edu
+    Faculty of Engineering and Natural Sciences, 
+    Sabanci University, 
+    34956 Tuzla, Istanbul, Turkey.
+    
     
 
 ## License
