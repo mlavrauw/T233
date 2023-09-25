@@ -13,7 +13,7 @@ preserving the set of tensors of rank one in \(V\).
 <a href="table1.html">table</a>. The code is written in the <a
 href="http://www.gap-system.org">GAP</a>-language and uses some
 functionality from the GAP package <a
-href="http://www.fining.org">FinInG</a>. Tensors are represented by
+href="https://www.gap-system.org/Packages/fining.html#:~:text=FinInG%20is%20a%20package%20for,flat%20lands%20of%20generalised%20polygons">FinInG</a>. Tensors are represented by
 points in the projective space PG\((V)\).
 
 For more information, you can visit the following webpage: http://people.sabanciuniv.edu/mlavrauw/T233/T233_paper.html.
