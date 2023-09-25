@@ -27,10 +27,12 @@ For more information, you can visit the following webpage: http://people.sabanci
     34956 Tuzla, Istanbul, Turkey.
     
     Michel Lavrauw
-    mlavrauw@sabanciuniv.edu
-    Faculty of Engineering and Natural Sciences, 
-    Sabanci University, 
-    34956 Tuzla, Istanbul, Turkey.
+    michel.lavrauw@upr.si
+    Michel Lavrauw
+    Department of Mathematics
+    Faculty of Mathematics, Natural Sciences and Information Technologies
+    University of Primorska, Koper, Slovenia.
+
     
     
 
