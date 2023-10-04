@@ -32,12 +32,18 @@ Persons := [
     FirstNames := "Michel",
     LastName := "Lavrauw",
     WWWHome := "http://people.sabanciuniv.edu/~mlavrauw/",
-    Email := "mlavrauw@sabanciuniv.edu",
-    PostalAddress := "Michel Lavrauw, Faculty of Engineering and Natural Sciences, Sabanci University, 34956 Tuzla, Istanbul, Turkey",
-    Place := "Istanbul, Turkey",
-    Institution := "Sabanci University",
+    Email := "michel.lavrauw@upr.si",
+    PostalAddress := "Michel Lavrauw, Department of Mathematics, University of Primorska, Koper, Slovenia.",
+    Place := "Koper, Slovenia",
+    Institution := "University of Primorska",
   ),
 ],
+
+
+
+
+
+ 
 
 SourceRepository := rec(
     Type := "git",
