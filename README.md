@@ -16,8 +16,7 @@ functionality from the GAP package <a
 href="https://www.gap-system.org/Packages/fining.html#:~:text=FinInG%20is%20a%20package%20for,flat%20lands%20of%20generalised%20polygons">FinInG</a>. Tensors are represented by
 points in the projective space PG\((V)\).
 
-For more information, you can visit the following webpage: http://people.sabanciuniv.edu/mlavrauw/T233/T233_paper.html.
-
+For more information, you can visit the following webpage: <a href="https://osebje.famnit.upr.si/~michel.lavrauw/T233/T233_paper.html">T233</a>.
 ## Contact
     
     Nour Alnajjarine 
