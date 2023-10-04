@@ -10,7 +10,7 @@ preserving the set of tensors of rank one in \(V\).
 
 <p>The algorithms depend on the classification of \(2\times 3 \times
 3\) tensors from <a href="https://www.sciencedirect.com/science/article/pii/S0024379515001494">[Lavrauw-Sheekey 2015]</a>, which is summarised in this
-<a href="table1.html">table</a>. The code is written in the <a
+<a href="https://osebje.famnit.upr.si/~michel.lavrauw/T233/table1.html">table</a>. The code is written in the <a
 href="http://www.gap-system.org">GAP</a>-language and uses some
 functionality from the GAP package <a
 href="https://www.gap-system.org/Packages/fining.html#:~:text=FinInG%20is%20a%20package%20for,flat%20lands%20of%20generalised%20polygons">FinInG</a>. Tensors are represented by
