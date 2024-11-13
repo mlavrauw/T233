@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Intro>
+  <Title>T233</Title>
+  <Abstract>
+    <Para>The <Package>T233</Package> package for GAP provides tools for the classification of tensors in the vector space <M>V = ℱ_q^2 ⊗ ℱ_q^3 ⊗ ℱ_q^3</M> over finite fields. This package allows users to compute the rank and orbit of tensors within this space, aiding in research in finite geometry and algebraic structures.</Para>
+  </Abstract>
+  
+  <Maintainer>
+    <Email>your-email@example.com</Email>
+    <Name>Your Name</Name>
+  </Maintainer>
+  
+  <License>GPL-2.0-or-later</License>
+  <PackageVersion>1.0</PackageVersion>
+</Intro>
+
