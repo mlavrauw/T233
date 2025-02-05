@@ -13,21 +13,18 @@ preserving the set of tensors of rank one in \(V\).
 <a href="https://osebje.famnit.upr.si/~michel.lavrauw/T233/table1.html">table</a>. The code is written in the <a
 href="http://www.gap-system.org">GAP</a>-language and uses some
 functionality from the GAP package <a
-href="https://www.gap-system.org/Packages/fining.html#:~:text=FinInG%20is%20a%20package%20for,flat%20lands%20of%20generalised%20polygons">FinInG</a>. Tensors are represented by
-points in the projective space PG\((V)\).
+href="https://www.gap-system.org/Packages/fining.html#:~:text=FinInG%20is%20a%20package%20for,flat%20lands%20of%20generalised%20polygons">FinInG</a>. Tensors are represented by points in the projective space PG\((V)\).
 
 For more information, you can visit the following webpage: <a href="https://osebje.famnit.upr.si/~michel.lavrauw/T233/T233_paper.html">T233</a>.
 ## Contact
     
     Nour Alnajjarine 
-    nour@sabanciuniv.edu
-    Faculty of Engineering and Natural Sciences, 
-    Sabanci University, 
-    34956 Tuzla, Istanbul, Turkey.
+    nour.alnajjarine@math.uniri.hr
+    Faculty of Mathematics
+    University of Rijeka
     
     Michel Lavrauw
     michel.lavrauw@upr.si
-    Michel Lavrauw
     Department of Mathematics
     Faculty of Mathematics, Natural Sciences and Information Technologies
     University of Primorska, Koper, Slovenia.
