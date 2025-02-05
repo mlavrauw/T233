@@ -24,7 +24,7 @@ For more information, you can visit the following webpage: <a href="https://oseb
     University of Rijeka
     
     Michel Lavrauw
-    michel.lavrauw@upr.si
+    michel.lavrauw@me.com
     Department of Mathematics
     Faculty of Mathematics, Natural Sciences and Information Technologies
     University of Primorska, Koper, Slovenia.
