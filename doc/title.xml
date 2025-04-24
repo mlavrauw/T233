@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is an automatically generated file. -->
+<TitlePage>
+  <Title>
+    T233
+  </Title>
+  <Subtitle>
+    Algorithms for tensors
+  </Subtitle>
+  <Version>
+    0.1
+  </Version>
+  <Author>
+    Nour Alnajjarine<Alt Only="LaTeX"><Br/></Alt>
+<Address>
+Nour Alnajjarine, Faculty of Mathematics, University of Rijeka, Croatia<Br/>
+</Address>
+<Email>nour.alnajjarine@math.uniri.hr</Email>
+<Homepage>https://sites.google.com/view/nouralnajjarine/home</Homepage>
+
+  </Author>
+  <Author>
+    Michel Lavrauw<Alt Only="LaTeX"><Br/></Alt>
+<Address>
+Michel Lavrauw, Department of Mathematics, University of Primorska, Koper, Slovenia<Br/>
+</Address>
+<Email>michel.lavrauw@upr.si</Email>
+<Homepage>https://mlavrauw.github.io</Homepage>
+
+  </Author>
+  <Date>
+    28 August 2019
+  </Date>
+  </TitlePage>

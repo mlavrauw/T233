@@ -9,7 +9,7 @@
 SetPackageInfo( rec(
 
 PackageName := "T233",
-Subtitle := "Algorithms for tensors.",
+Subtitle := "Algorithms for tensors",
 Version := "0.1",
 Date := "28/08/2019", # dd/mm/yyyy format
 License := "GPL-2.0-or-later",
@@ -20,20 +20,20 @@ Persons := [
     IsMaintainer := true,
     FirstNames := "Nour",
     LastName := "Alnajjarine",
-    WWWHome := "http://myweb.sabanciuniv.edu/nour",
-    Email := "nour@sabanciuniv.edu",
-    PostalAddress := "Nour Alnajjarine, Faculty of Engineering and Natural Sciences, Sabanci University, 34956 Tuzla, Istanbul, Turkey",
-    Place := "Istanbul, Turkey",
-    Institution := "Sabanci University",
+    WWWHome := "https://sites.google.com/view/nouralnajjarine/home",
+    Email := "nour.alnajjarine@math.uniri.hr",
+    PostalAddress := "Nour Alnajjarine, Faculty of Mathematics, University of Rijeka, Croatia",
+    Place := "Rijeka, Croatia",
+    Institution := "University of Rijeka",
   ),
   rec(
     IsAuthor := true,
     IsMaintainer := true,
     FirstNames := "Michel",
     LastName := "Lavrauw",
-    WWWHome := "http://people.sabanciuniv.edu/~mlavrauw/",
+    WWWHome := "https://mlavrauw.github.io",
     Email := "michel.lavrauw@upr.si",
-    PostalAddress := "Michel Lavrauw, Department of Mathematics, University of Primorska, Koper, Slovenia.",
+    PostalAddress := "Michel Lavrauw, Department of Mathematics, University of Primorska, Koper, Slovenia",
     Place := "Koper, Slovenia",
     Institution := "University of Primorska",
   ),
@@ -47,10 +47,10 @@ Persons := [
 
 SourceRepository := rec(
     Type := "git",
-    URL := "https://github.com/nalnajjarine/T233",
+    URL := "https://github.com/mlavrauw/T233",
 ),
 IssueTrackerURL := Concatenation( ~.SourceRepository.URL, "/issues" ),
-PackageWWWHome  := "https://nalnajjarine.github.io/T233/",
+PackageWWWHome  := "https://mlavrauw.github.io/T233/",
 PackageInfoURL  := Concatenation( ~.PackageWWWHome, "PackageInfo.g" ),
 README_URL      := Concatenation( ~.PackageWWWHome, "README.md" ),
 ArchiveURL      := Concatenation( ~.SourceRepository.URL,
@@ -77,7 +77,7 @@ PackageDoc := rec(
   HTMLStart := "doc/chap0.html",
   PDFFile   := "doc/manual.pdf",
   SixFile   := "doc/manual.six",
-  LongTitle := "Algorithms for tensors.",
+  LongTitle := "Algorithms for tensors",
 ),
 
 Dependencies := rec(
