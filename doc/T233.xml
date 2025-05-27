@@ -11,8 +11,7 @@
 <#Include SYSTEM "title.xml">
 <TableOfContents/>
 <Body>
-    <#Include SYSTEM "Introduction.xml">
-    <#Include SYSTEM "Auxiliary Tools.xml">
+
 </Body>
 <TheIndex/>
 </Book>
