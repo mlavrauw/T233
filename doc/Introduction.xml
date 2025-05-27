@@ -1,1 +1,27 @@
+<Chapter Title="Introduction">
 
+  <Section Title="Philosophy">
+    <Para>
+      This package determines the rank and the (G)-orbit of tensors in the 18-dimensional vector space V = F<sub>q</sub><sup>2</sup> &#x22C6; F<sub>q</sub><sup>3</sup> &#x22C6; F<sub>q</sub><sup>3</sup>,
+      over the finite field F<sub>q</sub> with q elements, where G &le; GL(18, q) is the natural group preserving the set of tensors of rank one in V.
+    </Para>
+    <Para>
+      The algorithms depend on the classification of 2 &times; 3 &times; 3 tensors. The code is written in the GAP language and uses functionality from the GAP package FinInG.
+      Tensors are represented by points in the projective space PG(V).
+    </Para>
+  </Section>
+
+  <Section Title="How to cite T233">
+    <Para>
+      For citing T233, refer to the authors: Nour Alnajjarine and Michel Lavrauw. The official package and paper can be found at:
+      <URL>https://osebje.famnit.upr.si/~michel.lavrauw/T233/T233_paper.html</URL>
+    </Para>
+  </Section>
+
+  <Section Title="Overview of this manual">
+    <Para>
+      The manual introduces T233 and describes its auxiliary and main tools for analyzing 2x3x3-tensors over finite fields.
+    </Para>
+  </Section>
+
+</Chapter>
