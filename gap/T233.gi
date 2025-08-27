@@ -3,7 +3,6 @@
 #
 # Implementations
 #
-LoadPackage("fining");
 
 
 

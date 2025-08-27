@@ -43,7 +43,7 @@ Persons := [
 
 
 
- 
+
 
 SourceRepository := rec(
     Type := "git",
@@ -82,7 +82,7 @@ PackageDoc := rec(
 
 Dependencies := rec(
   GAP := ">= 4.9",
-  NeededOtherPackages := [ ],
+  NeededOtherPackages := ["FinInG", ">=1.5.6"],
   SuggestedOtherPackages := [ ],
   ExternalConditions := [ ],
 ),
@@ -94,5 +94,3 @@ TestFile := "tst/testall.g",
 #Keywords := [ "TODO" ],
 
 ));
-
-
