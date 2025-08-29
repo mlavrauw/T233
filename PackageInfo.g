@@ -82,7 +82,7 @@ PackageDoc := rec(
 
 Dependencies := rec(
   GAP := ">= 4.9",
-  NeededOtherPackages := ["FinInG", ">=1.5.6"],
+  NeededOtherPackages := [["FinInG", ">=1.5.4"]],
   SuggestedOtherPackages := [ ],
   ExternalConditions := [ ],
 ),
