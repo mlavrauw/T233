@@ -1,0 +1,14 @@
+  
+  [1X1 [33X[0;0YT233 automatic generated documentation[133X[101X
+  
+  
+  [1X1.1 [33X[0;0YT233 automatic generated documentation of global functions[133X[101X
+  
+  [1X1.1-1 RankOfTensor[101X
+  
+  [33X[1;0Y[29X[2XRankOfTensor[102X( [3XA[103X ) [32X function[133X
+  [6XReturns:[106X  [33X[0;10Ya positive integer[133X
+  
+  [33X[0;0YReturns   the   tensor   rank  of  the  point  [3XA[103X  in  the  projective  space
+  [23X{\mathrm{PG}}(V)[123X.[133X
+  

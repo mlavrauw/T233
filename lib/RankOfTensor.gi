@@ -21,6 +21,7 @@
 # OrbitOfTensor function.
  
 InstallGlobalFunction(RankOfTensor,function(A)
+# We should turn this into a method which can also be applied to a tensor represented in a different way.
   local fld, q, O;
   fld:=BaseField(AmbientSpace(A));
   q:=Size(fld);

@@ -3,14 +3,14 @@
 <!-- This is an automatically generated file. -->
 <!DOCTYPE Book SYSTEM "gapdoc.dtd"
 [
-     <#Include SYSTEM "_entities.xml">
-
+    [<#Include SYSTEM "_entities.xml">
 ]
 >
 <Book Name="T233">
 <#Include SYSTEM "title.xml">
 <TableOfContents/>
 <Body>
+<#Include SYSTEM "_AutoDocMainFile.xml">
 </Body>
 <TheIndex/>
 </Book>

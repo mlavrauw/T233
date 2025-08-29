@@ -7,5 +7,16 @@ entries :=
      ], 
   [ "Table of Contents", "0.0-1", [ 0, 0, 1 ], 37, 2, "table of contents", 
       "X8537FEB07AF2BEC8" ], 
-  [ "Index", "ind", [ "Ind", 0, 0 ], 1, 3, "index", "X83A0356F839C696F" ] ]
+  [ 
+      "\033[1X\033[33X\033[0;-2YT233 automatic generated documentation\033[133X\\
+033[101X", "1", [ 1, 0, 0 ], 1, 3, "t233 automatic generated documentation", 
+      "X83B7A4517EF7CF5E" ], 
+  [ 
+      "\033[1X\033[33X\033[0;-2YT233 automatic generated documentation of global \
+functions\033[133X\033[101X", "1.1", [ 1, 1, 0 ], 4, 3, 
+      "t233 automatic generated documentation of global functions", 
+      "X7EAD7A027EA2D7CF" ], 
+  [ "Index", "ind", [ "Ind", 0, 0 ], 1, 4, "index", "X83A0356F839C696F" ], 
+  [ "\033[2XRankOfTensor\033[102X", "1.1-1", [ 1, 1, 1 ], 7, 3, 
+      "rankoftensor", "X7E8BC9897FA813B0" ] ]
 );

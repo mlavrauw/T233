@@ -19,5 +19,9 @@
 # The RankOfTensor function takes a tensor in PG(V) and returns its rank by using the classification of G-orbits of tensor in PG(V) mentioned in the 
 # OrbitOfTensor function.
 
+#! @Arguments A
+#! @Returns a positive integer
+#! @Description
+#!  Returns the tensor rank of the point <A>A</A> in the projective space ${\mathrm{PG}}(V)$.
 DeclareGlobalFunction( "RankOfTensor" );
 

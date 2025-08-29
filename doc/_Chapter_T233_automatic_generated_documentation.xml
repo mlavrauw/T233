@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is an automatically generated file. -->
+<Chapter Label="Chapter_T233_automatic_generated_documentation">
+<Heading>T233 automatic generated documentation</Heading>
+
+<Section Label="Chapter_T233_automatic_generated_documentation_Section_T233_automatic_generated_documentation_of_global_functions">
+<Heading>T233 automatic generated documentation of global functions</Heading>
+
+<ManSection>
+  <Func Arg="A" Name="RankOfTensor" />
+ <Returns>a positive integer
+</Returns>
+ <Description>
+  Returns the tensor rank of the point <A>A</A> in the projective space <Math>{\mathrm{PG}}(V)</Math>.
+ </Description>
+</ManSection>
+
+
+</Section>
+
+
+</Chapter>
+
