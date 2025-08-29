@@ -6,7 +6,13 @@
 #
 LoadPackage( "T233" );
 
-TestDirectory(DirectoriesPackageLibrary( "T233", "tst" ),
-  rec(exitGAP := true));
+exclude := [];
 
-FORCE_QUIT_GAP(1); # if we ever get here, there was an error
+TestDirectory(DirectoriesPackageLibrary( "T233", "tst" ),
+    rec(
+      exitGAP := true,
+      exclude := exclude,
+      testOptions := rec(compareFunction := "uptowhitespace")
+      #rewriteToFile := true,  # enable this line to update tests
+    ));
+FORCE_QUIT_GAP(1);
